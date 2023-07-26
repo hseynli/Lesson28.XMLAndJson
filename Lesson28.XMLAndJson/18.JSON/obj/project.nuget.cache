@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8zs6Qga7gnnehUFer/XnHdQRhv5RYqYHY3+AMnSinjpYz0s7gzEYCtKxH8jMNZq2r4TnVykYmwBe0s3OVDNuOg==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\VS Projects\\Lesson28.XMLAndJson\\18.JSON\\18.JSON.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\farid.huseynli\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

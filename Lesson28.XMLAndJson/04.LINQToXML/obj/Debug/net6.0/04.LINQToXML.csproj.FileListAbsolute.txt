@@ -1,0 +1,16 @@
+D:\Projects\VS Projects\Lesson28.XMLAndJson\04.LINQToXML\bin\Debug\net6.0\04.LINQToXML.exe
+D:\Projects\VS Projects\Lesson28.XMLAndJson\04.LINQToXML\bin\Debug\net6.0\Students.xml
+D:\Projects\VS Projects\Lesson28.XMLAndJson\04.LINQToXML\bin\Debug\net6.0\04.LINQToXML.deps.json
+D:\Projects\VS Projects\Lesson28.XMLAndJson\04.LINQToXML\bin\Debug\net6.0\04.LINQToXML.runtimeconfig.json
+D:\Projects\VS Projects\Lesson28.XMLAndJson\04.LINQToXML\bin\Debug\net6.0\04.LINQToXML.dll
+D:\Projects\VS Projects\Lesson28.XMLAndJson\04.LINQToXML\bin\Debug\net6.0\04.LINQToXML.pdb
+D:\Projects\VS Projects\Lesson28.XMLAndJson\04.LINQToXML\obj\Debug\net6.0\04.LINQToXML.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson28.XMLAndJson\04.LINQToXML\obj\Debug\net6.0\04.LINQToXML.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson28.XMLAndJson\04.LINQToXML\obj\Debug\net6.0\04.LINQToXML.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson28.XMLAndJson\04.LINQToXML\obj\Debug\net6.0\04.LINQToXML.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson28.XMLAndJson\04.LINQToXML\obj\Debug\net6.0\04.LINQToXML.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson28.XMLAndJson\04.LINQToXML\obj\Debug\net6.0\04.LINQToXML.dll
+D:\Projects\VS Projects\Lesson28.XMLAndJson\04.LINQToXML\obj\Debug\net6.0\refint\04.LINQToXML.dll
+D:\Projects\VS Projects\Lesson28.XMLAndJson\04.LINQToXML\obj\Debug\net6.0\04.LINQToXML.pdb
+D:\Projects\VS Projects\Lesson28.XMLAndJson\04.LINQToXML\obj\Debug\net6.0\04.LINQToXML.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson28.XMLAndJson\04.LINQToXML\obj\Debug\net6.0\ref\04.LINQToXML.dll

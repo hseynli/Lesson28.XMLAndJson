@@ -1,0 +1,25 @@
+{
+  "Inventory": [
+    {
+      "ID": "1",
+      "Brand": "Ford",
+      "Model": "Fiesta",
+      "Year": "2020",
+      "Color": "Red"
+    },
+    {
+      "ID": "2",
+      "Brand": "Toyota",
+      "Model": "Camry",
+      "Year": "2021",
+      "Color": "Blue"
+    },
+    {
+      "ID": "3",
+      "Brand": "Honda",
+      "Model": "Civic",
+      "Year": "2019",
+      "Color": "Black"
+    }
+  ]
+}

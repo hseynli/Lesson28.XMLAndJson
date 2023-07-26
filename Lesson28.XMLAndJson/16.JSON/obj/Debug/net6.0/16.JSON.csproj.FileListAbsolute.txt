@@ -1,0 +1,16 @@
+D:\Projects\VS Projects\Lesson28.XMLAndJson\16.JSON\bin\Debug\net6.0\16.JSON.exe
+D:\Projects\VS Projects\Lesson28.XMLAndJson\16.JSON\bin\Debug\net6.0\Students.json
+D:\Projects\VS Projects\Lesson28.XMLAndJson\16.JSON\bin\Debug\net6.0\16.JSON.deps.json
+D:\Projects\VS Projects\Lesson28.XMLAndJson\16.JSON\bin\Debug\net6.0\16.JSON.runtimeconfig.json
+D:\Projects\VS Projects\Lesson28.XMLAndJson\16.JSON\bin\Debug\net6.0\16.JSON.dll
+D:\Projects\VS Projects\Lesson28.XMLAndJson\16.JSON\bin\Debug\net6.0\16.JSON.pdb
+D:\Projects\VS Projects\Lesson28.XMLAndJson\16.JSON\obj\Debug\net6.0\16.JSON.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson28.XMLAndJson\16.JSON\obj\Debug\net6.0\16.JSON.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson28.XMLAndJson\16.JSON\obj\Debug\net6.0\16.JSON.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson28.XMLAndJson\16.JSON\obj\Debug\net6.0\16.JSON.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson28.XMLAndJson\16.JSON\obj\Debug\net6.0\16.JSON.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson28.XMLAndJson\16.JSON\obj\Debug\net6.0\16.JSON.dll
+D:\Projects\VS Projects\Lesson28.XMLAndJson\16.JSON\obj\Debug\net6.0\refint\16.JSON.dll
+D:\Projects\VS Projects\Lesson28.XMLAndJson\16.JSON\obj\Debug\net6.0\16.JSON.pdb
+D:\Projects\VS Projects\Lesson28.XMLAndJson\16.JSON\obj\Debug\net6.0\16.JSON.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson28.XMLAndJson\16.JSON\obj\Debug\net6.0\ref\16.JSON.dll

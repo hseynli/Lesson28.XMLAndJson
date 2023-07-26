@@ -1,0 +1,66 @@
+{
+  "Students": {
+    "Student": [
+      {
+        "@ID": "111",
+        "FirstName": "John",
+        "LastName": "Doe",
+        "DateOfBirth": "2000-10-2",
+        "Semester": "2",
+        "Major": "Computer Science",
+        "Courses": {
+          "Course": [
+            {
+              "@ID": "CS103",
+              "Grade": "7.3"
+            },
+            {
+              "@ID": "CS202",
+              "Grade": "6.9"
+            }
+          ]
+        }
+      },
+      {
+        "@ID": "222",
+        "FirstName": "Jane",
+        "LastName": "Doe",
+        "DateOfBirth": "2001-2-22",
+        "Semester": "1",
+        "Major": "Electrical Engineering",
+        "Courses": {
+          "Course": [
+            {
+              "@ID": "EE111",
+              "Grade": "5.6"
+            },
+            {
+              "@ID": "EE303",
+              "Grade": "8.8"
+            }
+          ]
+        }
+      },
+      {
+        "@ID": "333",
+        "FirstName": "Jim",
+        "LastName": "Doe",
+        "DateOfBirth": "2000-3-12",
+        "Semester": "2",
+        "Major": "Computer Science",
+        "Courses": {
+          "Course": [
+            {
+              "@ID": "CS103",
+              "Grade": "7.6"
+            },
+            {
+              "@ID": "CS202",
+              "Grade": "8.2"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
