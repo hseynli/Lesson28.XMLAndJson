@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\VS Projects\\Lesson28.XMLAndJson\\05.LINQToXML\\05.LINQToXML.csproj": {}
+    "D:\\Projects\\VS Projects\\Lesson28.XMLAndJson.Git\\Lesson28.XMLAndJson\\05.LINQToXML\\05.LINQToXML.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\VS Projects\\Lesson28.XMLAndJson\\05.LINQToXML\\05.LINQToXML.csproj": {
+    "D:\\Projects\\VS Projects\\Lesson28.XMLAndJson.Git\\Lesson28.XMLAndJson\\05.LINQToXML\\05.LINQToXML.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\VS Projects\\Lesson28.XMLAndJson\\05.LINQToXML\\05.LINQToXML.csproj",
+        "projectUniqueName": "D:\\Projects\\VS Projects\\Lesson28.XMLAndJson.Git\\Lesson28.XMLAndJson\\05.LINQToXML\\05.LINQToXML.csproj",
         "projectName": "05.LINQToXML",
-        "projectPath": "D:\\Projects\\VS Projects\\Lesson28.XMLAndJson\\05.LINQToXML\\05.LINQToXML.csproj",
+        "projectPath": "D:\\Projects\\VS Projects\\Lesson28.XMLAndJson.Git\\Lesson28.XMLAndJson\\05.LINQToXML\\05.LINQToXML.csproj",
         "packagesPath": "C:\\Users\\farid.huseynli\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\VS Projects\\Lesson28.XMLAndJson\\05.LINQToXML\\obj\\",
+        "outputPath": "D:\\Projects\\VS Projects\\Lesson28.XMLAndJson.Git\\Lesson28.XMLAndJson\\05.LINQToXML\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

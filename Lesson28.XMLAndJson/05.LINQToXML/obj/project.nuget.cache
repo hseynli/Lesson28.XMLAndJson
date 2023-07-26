@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jJdLHfFC2LTAEL7KkecHMP/Q+AIgZnTeO3llSCGtX4eQaTTqrKnatDZUfT+y1vC9aWjYdz11rUSr6qYsrwPI8w==",
+  "dgSpecHash": "SdQS3HHwAaXoqA9DKOQXuiuhKx5s+OhgpS9KXEMxKQIP1ni2U65Y1AEKpO3LkcXYL9KUEqAXftWYdhV9BL/ESw==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\VS Projects\\Lesson28.XMLAndJson\\05.LINQToXML\\05.LINQToXML.csproj",
+  "projectFilePath": "D:\\Projects\\VS Projects\\Lesson28.XMLAndJson.Git\\Lesson28.XMLAndJson\\05.LINQToXML\\05.LINQToXML.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

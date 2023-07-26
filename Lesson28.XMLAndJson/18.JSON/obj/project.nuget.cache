@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8zs6Qga7gnnehUFer/XnHdQRhv5RYqYHY3+AMnSinjpYz0s7gzEYCtKxH8jMNZq2r4TnVykYmwBe0s3OVDNuOg==",
+  "dgSpecHash": "2MEfPJzgsw6AEAlHUYe2c2kjXZMg7xCm//UzJk2sMV9xDL1MWt/nCvPiPWZkEoD7B8Rdnvqg88pQ4Ao9dNIJTQ==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\VS Projects\\Lesson28.XMLAndJson\\18.JSON\\18.JSON.csproj",
+  "projectFilePath": "D:\\Projects\\VS Projects\\Lesson28.XMLAndJson.Git\\Lesson28.XMLAndJson\\18.JSON\\18.JSON.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\farid.huseynli\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],
